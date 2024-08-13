@@ -1,6 +1,3 @@
-Aquí tienes un `README.md` en español para tu proyecto basado en el código proporcionado:
-
-```markdown
 # API de Análisis de Archivos
 
 Este proyecto proporciona una API REST simple que permite cargar archivos y recibir información sobre el archivo cargado, como el nombre, el tipo y el tamaño en bytes. La aplicación también incluye un endpoint de saludo y un formulario HTML para cargar archivos.
@@ -61,13 +58,13 @@ Si el archivo se carga correctamente, la respuesta será un objeto JSON con la s
 1. **Clonar el Repositorio**
 
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/DarkSevenX/fileMetadata-microservice.git
    ```
 
 2. **Navegar al Directorio del Proyecto**
 
    ```bash
-   cd <directorio-del-proyecto>
+   cd fileMetadata-microservice
    ```
 
 3. **Instalar Dependencias**
@@ -98,9 +95,4 @@ Si deseas contribuir a este proyecto, haz un fork del repositorio y envía un pu
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-
-Para cualquier pregunta o comentario, por favor contacta a [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com).
-
+Este proyecto está licenciado bajo la Licencia MIT
